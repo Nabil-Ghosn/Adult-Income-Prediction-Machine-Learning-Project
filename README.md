@@ -597,4 +597,3 @@ income of individuals depending on the geography.</p>
   <p>You can download the presentation: <a href="/Adult%20Income%20Prediction.pdf">Download PDF</a>.</p>
   </embed>
 </object>
-<a href="/Adult%20Income%20Prediction.pdf">Hi</a>
